@@ -1,5 +1,5 @@
 .game {
-  background-color: greenyellow;
+  background-color: #2a2a2a;
   width: 65vh;
   display: inline-block;
   border-radius: 3vh;
@@ -15,7 +15,6 @@
   margin-bottom: 5px;
 }
 
-.promotion-tray {}
 
 #promotion-icon {
   background-color: transparent;
